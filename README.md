@@ -1,16 +1,21 @@
-## Hi there 👋
+# Igor Muccio
 
-<!--
-**igormuccio/igormuccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em transição para AI Engineering, focado em aplicações com LLMs, RAG e LangChain.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- LangChain
+- OpenAI API
+- RAG e Busca Vetorial
+- Prompt Engineering
+
+## Em aprendizado
+
+- LangGraph
+- FastAPI
+- Docker
+
+## Projetos
+
+- [Max - Assistente Virtual com RAG](https://github.com/igormuccio/max-assistente)
